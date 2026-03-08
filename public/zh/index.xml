@@ -6,8 +6,25 @@
     <description>Recent content on oh merci</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 30 Sep 2024 02:17:37 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 03:09:45 +0800</lastBuildDate>
     <atom:link href="https://0xdra.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard</title>
+      <link>https://0xdra.github.io/zh/posts/dashboard/</link>
+      <pubDate>Mon, 09 Mar 2026 03:09:45 +0800</pubDate>
+      <guid>https://0xdra.github.io/zh/posts/dashboard/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;📊 &lt;a href=&#34;https://0xdra.github.io/yacd&#34;&gt;yacd 面板&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📊 &lt;a href=&#34;https://0xdra.github.io/metacubexd&#34;&gt;Metacubexd 面板&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📊 &lt;a href=&#34;https://0xdra.github.io/zashboard&#34;&gt;zashboard 面板&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Typora Cracker</title>
       <link>https://0xdra.github.io/zh/posts/typoracracker/</link>
