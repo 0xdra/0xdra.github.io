@@ -21,12 +21,12 @@ languages:
           海底月是天上月
           우리 함께 구름위로
         buttons:
-          - name: "⛅ 词根"
-            url: posts/root
-          - name: "☁️ 前缀"
-            url: posts/prefix
-          - name: "🌙 后缀"
-            url: posts/suffix
+          - name: "⛅ yacd"
+            url: /yacd
+          - name: "☁️ zashboard"
+            url: /zashboard
+          - name: "🌙 metacubexd"
+            url: /metacubexd
           - name: "🌕 oh dra"
             url: https://ohdra.neocities.org/
     menu:
