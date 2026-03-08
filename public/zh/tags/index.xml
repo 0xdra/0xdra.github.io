@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on oh merci</title>
+    <link>http://localhost:1313/zh/tags/</link>
+    <description>Recent content in Tags on oh merci</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 13 Oct 2022 18:59:07 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>成考</title>
+      <link>http://localhost:1313/zh/tags/%E6%88%90%E8%80%83/</link>
+      <pubDate>Thu, 13 Oct 2022 18:59:07 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E6%88%90%E8%80%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>不背单词</title>
+      <link>http://localhost:1313/zh/tags/%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D/</link>
+      <pubDate>Wed, 12 Oct 2022 21:53:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>词根</title>
+      <link>http://localhost:1313/zh/tags/%E8%AF%8D%E6%A0%B9/</link>
+      <pubDate>Wed, 12 Oct 2022 21:53:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E8%AF%8D%E6%A0%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wsa</title>
+      <link>http://localhost:1313/zh/tags/wsa/</link>
+      <pubDate>Wed, 12 Oct 2022 12:40:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/wsa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/zh/tags/hugo/</link>
+      <pubDate>Wed, 12 Oct 2022 12:09:14 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/hugo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

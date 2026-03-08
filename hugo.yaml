@@ -1,0 +1,140 @@
+baseURL: https://0xdra.github.io/
+languageCode: en-us
+title: My New Hugo Project
+theme: ["PaperMod"]
+
+languages:
+  zh:
+    weight: 1
+    title: "oh merci"
+    contentDir: content/zh
+    params:
+      profileMode:
+        enabled: true
+        # imageUrl: "https://raw.githubusercontent.com/ohmerci/For-Picgo/main/img/The-Moon-Rotates.svg"
+        # imageTitle: "图标-iconfont/金角大王"
+        # imageWidth: 300
+        # imageHeight: 300
+        title: "学习记录blog"
+        subtitle: >
+          海底月是天上月
+          우리 함께 구름위로
+        buttons:
+          - name: "⛅ 词根"
+            url: posts/root
+          - name: "☁️ 前缀"
+            url: posts/prefix
+          - name: "🌙 后缀"
+            url: posts/suffix
+          - name: "🌕 oh dra"
+            url: https://ohdra.neocities.org/
+    menu:
+      main:
+        - name: "归档"
+          url: archives
+          weight: 5
+        - name: "搜索"
+          url: search/
+          weight: 10
+        - name: "标签"
+          url: tags/
+          weight: 10
+        - name: "分类"
+          url: categories
+          weight: 10
+        - name: Dictionary
+          url: https://dictionary.com
+
+  en:
+    weight: 2
+    languageName: English
+    contentDir: content/en
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 10
+    homeInfoParams:
+      Title: "PaperMod"
+      Content: >
+        Welcome to demo of hugo's theme PaperMod.
+
+        - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+
+        - Do give a 🌟 on Github !
+
+        - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+
+  fr:
+    disabled: false
+    languageName: Français
+    title: oh merci
+    weight: 3
+    contentDir: content/fr
+    params:
+      socialIcons:
+      profileMode:
+        enabled: true
+        title: "j'aime la lune"
+
+  ug:
+    languageName: ئۇيغۇر
+    languagedirection: rtl
+    contentDir: content/ug
+    weight: 4
+    title: ئاي
+    homeInfoParams:
+      Title: ئۇيغۇر
+      Content: مەن شىنجاڭنى ياخشى كۆرىمەن
+    menu:
+      main:
+        - name: "　　　　　"
+          url: ../fr/archives/
+    params:
+      profileMode:
+        enabled: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  #ShowShareButtons: true
+  #ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowRssButtonInSectionTermList: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  #ShowFullTextinRSS: true
+  ShowToc: true
+
+  ShareButtons: ["telegram", "twitter"]
+
+  socialIcons:
+    - name: instagram
+      url: "https://instagram.com/oh_merciii"
+    - name: github
+      url: "https://github.com/ohmerci"
+    - name: telegram
+      url: "https://t.me/ohmerci"
+
+  profileMode:
+    enabled: false
+
+    assets:
+      favicon: "https://raw.githubusercontent.com/ohmerci/For-Picgo/main/img/favicon.ico"
+      favicon16x16: "https://raw.githubusercontent.com/ohmerci/For-Picgo/main/img/favicon-16x16.png"
+      favicon32x32: "https://raw.githubusercontent.com/ohmerci/For-Picgo/main/img/favicon-32x21.png"
+      apple_touch_icon: "https://raw.githubusercontent.com/ohmerci/For-Picgo/main/img/apple-touch-icon.png"
+      safari_pinned_tab: "https://raw.githubusercontent.com/ohmerci/For-Picgo/main/img/apple-touch-icon.png"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  # highlight:
+  #   noClasses: false

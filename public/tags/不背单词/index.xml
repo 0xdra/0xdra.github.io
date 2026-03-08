@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>不背单词 on My New Hugo Project</title>
+    <link>http://localhost:1313/tags/%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D/</link>
+    <description>Recent content in 不背单词 on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2022 21:53:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不背单词笔记</title>
+      <link>http://localhost:1313/zh/posts/bbdc-root/</link>
+      <pubDate>Wed, 12 Oct 2022 21:53:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/bbdc-root/</guid>
+      <description>笔记-词根</description>
+    </item>
+    <item>
+      <title>不背单词自定义词书</title>
+      <link>http://localhost:1313/zh/posts/bbdc/</link>
+      <pubDate>Wed, 12 Oct 2022 12:26:49 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/bbdc/</guid>
+      <description>自定义词书</description>
+    </item>
+  </channel>
+</rss>
