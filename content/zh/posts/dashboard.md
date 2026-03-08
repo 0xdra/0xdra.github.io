@@ -6,6 +6,6 @@ title: 'Dashboard'
 
 - 📊 [yacd 面板](/yacd)
 
-- 📊 [Metacubexd 面板](/metacubexd)
-
 - 📊 [zashboard 面板](/zashboard)
+
+- 📊 [Metacubexd 面板](/metacubexd)
