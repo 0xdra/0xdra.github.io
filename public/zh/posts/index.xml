@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on oh merci</title>
-    <link>http://localhost:1313/zh/posts/</link>
+    <link>https://0xdra.github.io/zh/posts/</link>
     <description>Recent content in Posts on oh merci</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 30 Sep 2024 02:17:37 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0xdra.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typora Cracker</title>
-      <link>http://localhost:1313/zh/posts/typoracracker/</link>
+      <link>https://0xdra.github.io/zh/posts/typoracracker/</link>
       <pubDate>Mon, 30 Sep 2024 02:17:37 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/typoracracker/</guid>
+      <guid>https://0xdra.github.io/zh/posts/typoracracker/</guid>
       <description>&lt;h1 id=&#34;typora激活记录&#34;&gt;Typora激活记录&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;纯属学习记录，不提供任何服务&lt;/p&gt;
@@ -100,9 +100,9 @@
     </item>
     <item>
       <title>Elena_vibe</title>
-      <link>http://localhost:1313/zh/posts/elena-vibe/</link>
+      <link>https://0xdra.github.io/zh/posts/elena-vibe/</link>
       <pubDate>Tue, 18 Oct 2022 20:38:53 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/elena-vibe/</guid>
+      <guid>https://0xdra.github.io/zh/posts/elena-vibe/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -334,16 +334,16 @@
     </item>
     <item>
       <title>Mp3tag使用iTunes API获取歌曲信息</title>
-      <link>http://localhost:1313/zh/posts/mp3tag/</link>
+      <link>https://0xdra.github.io/zh/posts/mp3tag/</link>
       <pubDate>Mon, 17 Oct 2022 23:55:56 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/mp3tag/</guid>
+      <guid>https://0xdra.github.io/zh/posts/mp3tag/</guid>
       <description>&lt;p&gt;本文章具有时效性&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nana</title>
-      <link>http://localhost:1313/zh/posts/nana/</link>
+      <link>https://0xdra.github.io/zh/posts/nana/</link>
       <pubDate>Sun, 16 Oct 2022 17:51:01 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/nana/</guid>
+      <guid>https://0xdra.github.io/zh/posts/nana/</guid>
       <description>&lt;h3 id=&#34;电影&#34;&gt;电影&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://jx.bozrc.com:4433/player/?url=https://www.bilibili.com/bangumi/play/ep385271?theme=movie&amp;amp;spm_id_from=333.337.0.0&#34;&gt;NANA1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jx.bozrc.com:4433/player/?url=https://film.sohu.com/album/9743123.html?txid=7ada969851fd73090f44b01fee5b798c&#34;&gt;NANA2&lt;/a&gt;&lt;/p&gt;
@@ -402,9 +402,9 @@
     </item>
     <item>
       <title>后缀</title>
-      <link>http://localhost:1313/zh/posts/suffix/</link>
+      <link>https://0xdra.github.io/zh/posts/suffix/</link>
       <pubDate>Sun, 16 Oct 2022 09:09:47 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/suffix/</guid>
+      <guid>https://0xdra.github.io/zh/posts/suffix/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;-ic = 构成形容词&lt;/li&gt;
 &lt;li&gt;-y = 构成名词:表&amp;quot;状态,性质&amp;quot;&lt;/li&gt;
@@ -433,9 +433,9 @@
     </item>
     <item>
       <title>前缀</title>
-      <link>http://localhost:1313/zh/posts/prefix/</link>
+      <link>https://0xdra.github.io/zh/posts/prefix/</link>
       <pubDate>Sun, 16 Oct 2022 09:09:44 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/prefix/</guid>
+      <guid>https://0xdra.github.io/zh/posts/prefix/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;a- as- ar- ap- at- (ad-) = 朝着;靠近;加强语气&lt;/li&gt;
 &lt;li&gt;a- = 处于某种状况,在&lt;/li&gt;
@@ -451,9 +451,9 @@
     </item>
     <item>
       <title>Root</title>
-      <link>http://localhost:1313/zh/posts/root/</link>
+      <link>https://0xdra.github.io/zh/posts/root/</link>
       <pubDate>Sun, 16 Oct 2022 09:09:40 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/root/</guid>
+      <guid>https://0xdra.github.io/zh/posts/root/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;arithm = 数学&lt;/li&gt;
 &lt;li&gt;proach = 附近&lt;/li&gt;
@@ -537,51 +537,51 @@
     </item>
     <item>
       <title>英语直播笔记</title>
-      <link>http://localhost:1313/zh/posts/2021-writing/</link>
+      <link>https://0xdra.github.io/zh/posts/2021-writing/</link>
       <pubDate>Thu, 13 Oct 2022 18:59:07 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/2021-writing/</guid>
+      <guid>https://0xdra.github.io/zh/posts/2021-writing/</guid>
       <description>主要是写作范文</description>
     </item>
     <item>
       <title>不背单词笔记</title>
-      <link>http://localhost:1313/zh/posts/bbdc-root/</link>
+      <link>https://0xdra.github.io/zh/posts/bbdc-root/</link>
       <pubDate>Wed, 12 Oct 2022 21:53:00 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/bbdc-root/</guid>
+      <guid>https://0xdra.github.io/zh/posts/bbdc-root/</guid>
       <description>笔记-词根</description>
     </item>
     <item>
       <title>用wsa在windows11上背单词</title>
-      <link>http://localhost:1313/zh/posts/wsa/</link>
+      <link>https://0xdra.github.io/zh/posts/wsa/</link>
       <pubDate>Wed, 12 Oct 2022 12:40:00 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/wsa/</guid>
+      <guid>https://0xdra.github.io/zh/posts/wsa/</guid>
       <description>记一些wsa安装过程</description>
     </item>
     <item>
       <title>不背单词自定义词书</title>
-      <link>http://localhost:1313/zh/posts/bbdc/</link>
+      <link>https://0xdra.github.io/zh/posts/bbdc/</link>
       <pubDate>Wed, 12 Oct 2022 12:26:49 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/bbdc/</guid>
+      <guid>https://0xdra.github.io/zh/posts/bbdc/</guid>
       <description>自定义词书</description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/zh/posts/hugo/</link>
+      <link>https://0xdra.github.io/zh/posts/hugo/</link>
       <pubDate>Wed, 12 Oct 2022 12:09:14 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/hugo/</guid>
+      <guid>https://0xdra.github.io/zh/posts/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>词根</title>
-      <link>http://localhost:1313/zh/posts/root-bd/</link>
+      <link>https://0xdra.github.io/zh/posts/root-bd/</link>
       <pubDate>Mon, 10 Oct 2022 15:30:09 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/root-bd/</guid>
+      <guid>https://0xdra.github.io/zh/posts/root-bd/</guid>
       <description>English</description>
     </item>
     <item>
       <title>第一篇文章</title>
-      <link>http://localhost:1313/zh/posts/first-post/</link>
+      <link>https://0xdra.github.io/zh/posts/first-post/</link>
       <pubDate>Sun, 09 Oct 2022 13:38:59 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/first-post/</guid>
+      <guid>https://0xdra.github.io/zh/posts/first-post/</guid>
       <description>&lt;h1 id=&#34;heading&#34;&gt;🌘🌗🌖🌕🌔🌓🌒🌑&lt;/h1&gt;</description>
     </item>
   </channel>
