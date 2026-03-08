@@ -1,7 +1,8 @@
 baseURL: https://0xdra.github.io/
 languageCode: en-us
-title: My New Hugo Project
+title: 0xdra
 theme: ["PaperMod"]
+defaultContentLanguage: zh
 
 languages:
   zh:

@@ -2,35 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://0xdra.github.io/posts/first-post/</loc>
+    <loc>https://0xdra.github.io/en/</loc>
     <lastmod>2022-10-09T13:38:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://0xdra.github.io/zh/posts/first-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://0xdra.github.io/fr/posts/first-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ug"
-                href="https://0xdra.github.io/ug/posts/first-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://0xdra.github.io/posts/first-post/"
-                />
-  </url><url>
-    <loc>https://0xdra.github.io/</loc>
-    <lastmod>2022-10-09T13:38:59+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://0xdra.github.io/zh/"
+                href="https://0xdra.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -45,14 +22,37 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://0xdra.github.io/"
+                href="https://0xdra.github.io/en/"
                 />
   </url><url>
-    <loc>https://0xdra.github.io/archives/</loc>
+    <loc>https://0xdra.github.io/en/posts/first-post/</loc>
+    <lastmod>2022-10-09T13:38:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://0xdra.github.io/zh/archives/"
+                href="https://0xdra.github.io/posts/first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://0xdra.github.io/fr/posts/first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ug"
+                href="https://0xdra.github.io/ug/posts/first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://0xdra.github.io/en/posts/first-post/"
+                />
+  </url><url>
+    <loc>https://0xdra.github.io/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://0xdra.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -67,14 +67,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://0xdra.github.io/archives/"
+                href="https://0xdra.github.io/en/archives/"
                 />
   </url><url>
-    <loc>https://0xdra.github.io/categories/</loc>
+    <loc>https://0xdra.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://0xdra.github.io/zh/categories/"
+                href="https://0xdra.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -89,14 +89,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://0xdra.github.io/categories/"
+                href="https://0xdra.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://0xdra.github.io/search/</loc>
+    <loc>https://0xdra.github.io/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://0xdra.github.io/zh/search/"
+                href="https://0xdra.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -111,14 +111,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://0xdra.github.io/search/"
+                href="https://0xdra.github.io/en/search/"
                 />
   </url><url>
-    <loc>https://0xdra.github.io/tags/</loc>
+    <loc>https://0xdra.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://0xdra.github.io/zh/tags/"
+                href="https://0xdra.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -133,7 +133,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://0xdra.github.io/tags/"
+                href="https://0xdra.github.io/en/tags/"
                 />
   </url>
 </urlset>
