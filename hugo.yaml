@@ -117,11 +117,11 @@ params:
 
   socialIcons:
     - name: instagram
-      url: "https://instagram.com/oh_merciii"
+      url: "https://instagram.com/"
     - name: github
-      url: "https://github.com/ohmerci"
+      url: "https://github.com/"
     - name: telegram
-      url: "https://t.me/ohmerci"
+      url: "https://t.me/"
 
   profileMode:
     enabled: false
