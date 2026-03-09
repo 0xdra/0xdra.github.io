@@ -7,7 +7,7 @@ defaultContentLanguage: zh
 languages:
   zh:
     weight: 1
-    title: "oh merci"
+    title: "0xdra"
     contentDir: content/zh
     params:
       profileMode:
