@@ -4,6 +4,10 @@ title: 0xdra
 theme: ["PaperMod"]
 defaultContentLanguage: zh
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 languages:
   zh:
     weight: 1
